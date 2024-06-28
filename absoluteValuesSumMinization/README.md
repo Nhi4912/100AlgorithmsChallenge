@@ -46,3 +46,5 @@ _Guaranteed constraints:_
 -106 ≤ a[i] ≤ 106.
 
 - **[output] integer**
+
+**=> Solution**: Nếu mảng đã sort dần thì phần tử giữa mảng sẽ là giá trị thích hợp để trị tuyệt đối của các phần tử đầu và cuối mảng đưa ra tổng nhỏ nhất.
